@@ -1,0 +1,27 @@
+.box{
+    background-color: aqua;
+    border-radius: 20px;
+    height: 5rem;
+    width: 5rem;
+    border-width: 2px;
+    border-color: rgb(0, 0, 131);
+    font-size: 2rem;
+    font-weight: bold;
+
+    margin-top: 5px;
+}
+.box:hover{
+    background-color: rgb(233, 105, 0);
+    color: white;
+    transition-duration: 0.5s;
+    box-shadow: 10px 10px 20px #616161;
+}
+
+.x{
+    color: rgb(255, 70, 37);
+}
+
+.o{
+    color: rgb(44, 135, 255)
+}
+
